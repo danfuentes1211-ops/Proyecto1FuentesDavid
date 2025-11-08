@@ -1,0 +1,70 @@
+@font-face {
+    font-family: SupercellHeadline-Heavy;
+    src: './fonts/supercellheadline-heavy.ttf';
+}
+
+.Das {
+    color: white;
+}
+
+body {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header {
+    border-style: solid;
+    border-width: 10px;
+    background-color: black;
+}
+
+playfair-display-uniquifier {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.papu {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Mario {
+
+    width: 50px;
+}
+
+.Moises {
+    border-radius: 50px;
+    background-color: rgb(92, 92, 238);
+    justify-content: center;
+
+}
+
+img {
+    width: 500px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: SupercellHeadline-Heavy, sans-serif;
+}
+
+.Maria {
+    width: 250px;
+
+}
+
+.David {
+    width: 1200px;
+    right: center;
+
+}
+
+.Espacio {
+    color: #fb4a9d;
+
+}
