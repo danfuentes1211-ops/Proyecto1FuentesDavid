@@ -1,0 +1,185 @@
+@font-face {
+    font-family: SupercellHeadline-Heavy;
+    src: './fonts/supercellheadline-heavy.ttf';
+}
+
+.Das {
+    color: white;
+}
+
+body {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header {
+    border-style: solid;
+    border-width: 10px;
+    background-color: black;
+}
+
+playfair-display-uniquifier {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.papu {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Mario {
+
+    width: 50px;
+}
+
+.Moises {
+    border-radius: 50px;
+    background-color: rgb(92, 92, 238);
+    justify-content: center;
+
+}
+
+img {
+    width: 600px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: SupercellHeadline-Heavy, sans-serif;
+}
+
+.Maria {
+    width: 250px;
+
+}
+
+.David {
+    width: 100%;
+    right: center;
+
+}
+
+.Espacio {
+    color: #fb4a9d;
+
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.squad2{
+    margin-left: 20px;
+}
+
+
+.imagen-1{
+    width: 100%;
+}
+
+.imagen-2{
+    width: 100%;
+}
+
+.flex-2{
+    display: flex;
+  justify-content: space-around;
+}
+
+.Brawl-2{
+    margin-left: 20px;
+}
+
+.imagen-3{
+    width: 100%;
+}
+
+.imagen-4{
+    width: 100%;
+}
+
+.flex-3{
+ display: flex;
+  justify-content: space-around;   
+}
+
+.informe-2{
+    margin-left: 20px;
+}
+.imagen-5{
+    width: 100%;
+}
+
+.imagen-6{
+    width: 100%;
+}
+
+.flex-4{
+     display: flex;
+  justify-content: space-around;  
+}
+
+.economia-2{
+    margin-left: 20px;
+}
+
+.imagen-7{
+    width: 100%;
+}
+
+.imagen-8{
+    width: 100%;
+}
+
+.flex-5{
+     display: flex;
+  justify-content: space-around;  
+}
+
+.clash-2{
+    margin-left: 20px;
+}
+
+.imagen-9{
+    width: 100%;
+}
+
+.imagen-10{
+    width: 100%;
+}
+
+.flex-6{
+      display: flex;
+  justify-content: space-around;  
+}
+
+.comunidad-2{
+     margin-left: 20px;
+}
+.imagen-11{
+    width: 100%;
+}
+
+.imagen-12{
+    width: 100%;
+}
+
+.flex-7{
+     display: flex;
+  justify-content: space-around; 
+}
+.supercell-2{
+    margin-left: 20px;
+}
+.imagen-13{
+    width: 100%;
+}
+.imagen-14{
+    width: 100%;
+}
